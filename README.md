@@ -358,55 +358,52 @@ Blocking reduces the search space by selecting only records that share useful si
 
 ---
 
-## 📉 10. Search-Space Reduction
+## 🔎 10. Search-Space Reduction
 
-The V2 test pipeline generated:
+Entity resolution becomes computationally expensive when every Source 1
+record is compared with every Source 2 / Source 3 record.
+
+For the training data alone:
+
+**2,206,821 S1 × 5,034,616 S2**
+
+≈ **11.11 trillion possible S1–S2 comparisons**
+
+This illustrates the scale of the brute-force search space.
+
+Instead of exhaustive comparison, the pipeline uses blocking and candidate
+generation to identify only plausible pairs.
+
+### Test Candidate Generation
+
+For the final test pipeline:
+
+| Blocking Stage | Candidate Pairs |
+|---|---:|
+| Exact-name matching | 10,882,180 |
+| Exact-address matching | 655,494 |
+| **Combined candidate pairs** | **11,452,975** |
+
+The XGBoost matcher then scored these **11.45 million candidate pairs**
+instead of performing an exhaustive comparison across the full search space.
 
 ```text
-Exact-name candidates
-        ↓
-   10,882,180
-
-Exact-address candidates
-        ↓
-      655,494
-
-Combined candidate pairs
-        ↓
-   11,452,975
+                 BRUTE-FORCE CONCEPT
+                        │
+                        ▼
+              Trillion-scale search
+                        │
+                        │ Blocking
+                        ▼
+             Candidate Generation
+                        │
+                        ▼
+                11.45M candidates
+                        │
+                        │ XGBoost
+                        ▼
+                 Final Matches
 ```
-
-Therefore, instead of applying the ML matcher to the full Cartesian product, the model scored:
-
-```text
-11,452,975 candidate pairs
-```
-
-This is the key scalability improvement.
-
-**Conceptual reduction**
-
-```text
-BRUTE FORCE
-
-S1 × S2
-≈ 11.10 TRILLION
-comparisons
-       │
-       │ Blocking
-       ▼
-CANDIDATE GENERATION
-       │
-       ▼
-11.45 MILLION
-candidate pairs
-       │
-       │ ML Matching
-       ▼
-FINAL MATCHES
-```
-
-> The 11.10 trillion figure represents the S1 × S2 training search space alone. Source 3 would increase the exhaustive search space further.
 
 ---
 
