@@ -1,0 +1,65 @@
+s1_id,candidate_id,s1_name,candidate_name,score,is_true
+S1-760947182,S2-531124461,Sai Hospitalprivate Pvt. Ltd.,Sai Hospitalprivate  Pvt. Ltd.,0.99994636,True
+S1-345344001,S2-722485527,Crest Techlabs Limited,crest techlabs limited,0.99994636,True
+S1-424070450,S2-8784803,Montic Social Corp,Montic Social  Corp,0.9999459,True
+S1-336929746,S2-492124104,Ahemdabad Education Co,Ahemdabad Education Co,0.9999429,True
+S1-182116010,S2-660255517,Secunderabad Webs LLP,Secunderabad  Webs LLP,0.99994266,True
+S1-741512126,S2-812803950,Jayashree Seva Samiti Ltd,Jayashree Seva Samiti Ltd.,0.9999387,True
+S1-775518456,S2-166161559,Applied Buildtech Private Limited,Applied Buildtech Private Limited,0.9999374,True
+S1-714074007,S2-565971077,"Jacinto, Cynthy, M.D.","Jacinto, Cynthy, M.D.",0.9999336,True
+S1-705288622,S3-619738811,Vardhman & Co,VARDHMAN & CO,0.9999273,True
+S1-258631636,S2-870124927,Harshraj Software Private Limited,HARSHRAJ SOFTWARE PRIVATE LIMITED,0.99991727,True
+S1-69937733,S2-935879468,Canoe Care LLP,Canoe LLP Care,0.99991465,True
+S1-355345358,S2-982292605,Mickie Poole Empire Impact L.L.C.,Mickie Poole Empire Impact [L.L.C.],0.99991274,True
+S1-237793700,S3-565511667,Cooke & Patterson Battery,>> Cooke & Patterson Battery,0.9999062,True
+S1-640355156,S3-656162948,Pixel (India) Multiple Private Limited,Pixel (India) Multiple Private Límited,0.999905,True
+S1-801939869,S2-28117077,Musick Value Agnc LLC,Musick Value-Agnc LLC,0.999902,True
+S1-377922596,S2-875136517,"Murthy, Glynnis F., CPA, P.C.","Murthy, Glynnis F., CPA,  P.C.",0.999902,True
+S1-714277509,S2-69195106,Padron Bakery Inc.,Padron Bakery  Inc.,0.9999006,True
+S1-543163716,S3-394599798,Arunachal Services Private Limited,Arunachal Services,0.99989843,True
+S1-193843702,S2-99805858,Internal Medicine Health of Shinnston,Internal Medicine Health of Shinnston,0.9998957,True
+S1-120622570,S3-887812562,Womens Health Partners of Owensboro,Womens Health Partners of  Owensboro,0.99989355,True
+S1-483068291,S3-447311110,Colovue LLC,LLC Colovue,0.99989235,True
+S1-344247276,S2-518143169,Roopya Tradings Private Limited,Roopya Tradings Limited Private,0.9998807,True
+S1-614620908,S2-432031710,Rajdoot Traders Public Limited,Sri RAJDOOT TRADERS PUBLIC LIMITED,0.9998752,True
+S1-739725412,S2-775991544,Brittni's Book Store,BRITTNI'S STORE BOOK,0.9998735,True
+S1-199110374,S2-789473703,Veteify LLC,LLC Veteify,0.999869,True
+S1-465401840,S2-928535769,"Jami Hudspeth Red, LLC","Jami Red, Hudspeth LLC",0.9998683,True
+S1-657353178,S2-397494113,Vijaypath Brothers Private Limited,Vijaypath Brothers Private  (Limited),0.9998642,True
+S1-767835428,S3-787011172,Interfaith Initiative,interfaith initiative,0.99985945,True
+S1-355169285,S3-218151721,Dell Kenner Farms Inc,Dell Kenner Farms Inc.,0.9998566,True
+S1-900771182,S2-737788342,Andros and Platt Summit LLC,Andros and-Platt Summit LLC,0.99985516,True
+S1-710385087,S2-322926562,Main Street Seafood,Main Street-Seafood,0.9998511,True
+S1-682232075,S3-887171089,Versatile Financial Company,Versatile  Financial,0.9998379,True
+S1-589714472,S2-961927468,Nexent Deep,... Nexent Deep Corp,0.9998254,True
+S1-834586101,S2-784614133,Hurt & Magdaleno Dynamics Inc,HURT & MAGDALENO DYNÁMICS INC,0.999824,True
+S1-949774224,S2-625728731,Aatharvu Travels,AATHARVU TRAVELS  COMPANY,0.99982375,True
+S1-422582263,S3-493485248,Claeys Motors LLC,Claeys  Motors,0.9998233,True
+S1-879994902,S2-706146170,Karshak Motors Limited,Karshak  Motors,0.99981683,True
+S1-875154282,S2-992532323,Sarasesh Hub Ltd,Sarasesh Hub,0.9998084,True
+S1-783465204,S3-174823797,Microtech Trading Private Limited,Sri microtech trading private limited,0.9998035,True
+S1-489575121,S2-392068049,Donnelly Highland Networks,Donnelly Highland Nétworks,0.99980086,True
+S1-366724593,S3-901359822,Tootsie Stapp Owl LLC,Tootsie Owl Stapp LLC,0.99978,True
+S1-576352441,S3-150312815,Sterling Safe Neuberger LLC,Sterling Safe  Neuberger,0.99974173,True
+S1-664108053,S3-55752246,"Ezekiel, Maryellen E., M.D. P.C.","Ezekiel, Maryellen E., M.D.",0.9997389,True
+S1-839663469,S3-256093679,Layden and Ibarra PLLC,Layden ánd Ibarra PLLC,0.9997366,True
+S1-543376329,S2-332844354,Jabalpur Care Limited,*** JABALPUR-CARE,0.9997166,True
+S1-30105558,S3-151107574,"Boxford, County Of","Boxford, County",0.999619,True
+S1-309971249,S2-158122419,Novation Pools Private Limited,NOVATION POOLS [PRIVATE],0.9995048,True
+S1-812746814,S2-759744413,Girdhari Bhoo Private Limited,Girdhari Bhoo Private,0.99944836,True
+S1-726989729,S3-548024226,Cloud (India) Microns LLP,Cloud (Índia) Microns LLP,0.999421,True
+S1-111346712,S3-707527805,Juline's Law Group,Juline'S Law,0.9991041,True
+S1-91824777,S2-591350116,Avana Kraft Pvt. Ltd.,Avana Kraft,0.99888176,True
+S1-395306449,S3-628925213,Krishnagar - I Ecosystems Private Limited,-- KRISHNAGAR - I ECOSYSTEMS PRIVATE LIMITED,0.9986028,True
+S1-626724530,S2-858556944,"Herrmann, Dancel and Martinez Inc",-- Herrmann Dtgncel and Martinez Inc,0.9980464,True
+S1-236780719,S3-865147455,Sree Initiatives Private Limited,Sree Initiatives Private Límited,0.9974577,True
+S1-527909377,S2-993038534,Graybill and Fagg Bioworks LLC,Graybill and Fagg-Bi0works (LLC),0.9964306,True
+S1-225439665,S2-87279640,"Stephana Willis, L.C.S.W.","Stephana Willis, L.C.S.W. Corp",0.99552566,False
+S1-563919326,S3-631271322,Ecstatic Infotek Limited,Ecstatic Infotek Ltd,0.99521685,True
+S1-452126598,S3-215576355,Wheeler and Marciano Ngl Inc,Wheeler and Marciano Ngl,0.993749,True
+S1-902783766,S2-558066983,Corrosion Advisors LLP,CORROSION ADVISRS LLP LLP,0.99363434,True
+S1-781168281,S3-503094722,Automated Data Systems Inc,Automated Data Systems LLC,0.9893785,False
+S1-142127918,S3-233167336,"Alma Willis, L.C.S.W.","Alma Willis, L.C.S.W. Ltd",0.9890773,False
+S1-711000049,S3-173266310,"Webb, Hodges and Fleetwood","Webb, Hodges and Fleetwood Co",0.9872592,False
+S1-11468634,S3-562920468,Little Nails,Little Nails Corp,0.98699296,False
+S1-357994027,S2-650871623,"Drees, Bojorquez and Warren Appliance Inc","Drees, Bojorquez and Warren Appliance Ltd",0.9801793,False

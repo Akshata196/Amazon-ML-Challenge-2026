@@ -1,0 +1,15 @@
+name_ratio
+name_token_overlap
+name_jaccard
+trans_name_ratio
+trans_name_overlap
+address_ratio
+address_token_overlap
+address_jaccard
+trans_address_ratio
+number_overlap
+exact_name
+exact_address
+country_match
+name_length_diff
+address_length_diff
